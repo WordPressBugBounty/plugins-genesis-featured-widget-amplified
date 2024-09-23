@@ -1,0 +1,1 @@
+# plugins-genesis-featured-widget-amplified
